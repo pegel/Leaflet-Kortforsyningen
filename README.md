@@ -3,8 +3,8 @@ Using the WMS services in leaflet from [kortforsyningen.dk][] is easy and this i
 
 Additional examples are avaliable from Kortforsyningen at [Kortforyningen on GitHub][]
 
-**Note**
+**Note**<br />
 To get it running you need an account at [kortforsyningen.dk][] and input your username and password in [ticket.php](ticket/ticket.php)
 
 [kortforsyningen.dk]: http://kortforsyningen.dk
-[kortforyningen github]: https://github.com/Kortforsyningen/utilities_and_example_implementations/tree/master/examples/leaflet
+[Kortforyningen on GitHub]: https://github.com/Kortforsyningen/utilities_and_example_implementations/tree/master/examples/leaflet
